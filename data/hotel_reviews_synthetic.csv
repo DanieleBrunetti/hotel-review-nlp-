@@ -1,0 +1,6 @@
+id,title,body,department,sentiment
+1,Recensione Pulizia,"La camera era davvero pulita. Mi sono trovato bene.",Pulizia,positivo
+2,Recensione Reception,"Check-in molto lento. Non sono soddisfatto.",Reception,negativo
+3,Recensione Ristorazione,"Colazione molto varia e buona. Lo consiglio.",Ristorazione,positivo
+4,Recensione Pulizia,"Ho trovato polvere ovunque. Non lo consiglierei.",Pulizia,negativo
+5,Recensione Reception,"Personale cordiale e disponibile. Ci tornerei.",Reception,positivo
