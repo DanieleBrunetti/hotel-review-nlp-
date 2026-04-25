@@ -215,7 +215,7 @@ Applicabile a:
 
 ---
 
-## 👨‍💻 Autore
+## 👨‍💻 Autore Daniele Brunetti
 
 Project Work sviluppato per dimostrare competenze in:
 
@@ -223,3 +223,9 @@ Project Work sviluppato per dimostrare competenze in:
 * Natural Language Processing
 * Data Analysis
 * Sviluppo di prototipi applicativi
+
+---
+
+📄​ License
+
+Vedi LICENSE per dettagli. 
